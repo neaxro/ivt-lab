@@ -1,5 +1,7 @@
 package hu.bme.mit.spaceship;
 
+// Valtozas :)
+
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
